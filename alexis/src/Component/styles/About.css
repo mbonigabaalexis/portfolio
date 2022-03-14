@@ -1,0 +1,34 @@
+.section-2{
+    width:100%;
+    height: 100vh;
+    background-color: black;
+    border: 5px solid grey;
+    font-family:'popins',sans-serif;
+}
+.about-me{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.container-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px;
+}
+.image-cont img{
+    width: 250px;
+    border: 5px solid #fff;
+}
+.text-2{
+color: #fff;
+font-size: 18px;
+line-height: 45px;
+border: 2px solid #fff;
+padding: 15px;
+}
+.text-2 p{
+    border-top: 2px solid #fff;
+
+}

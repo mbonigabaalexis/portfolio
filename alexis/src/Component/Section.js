@@ -8,8 +8,8 @@ const Section=()=>{
     <div className="texts">
         <h1 >Hello My Name Is:</h1>
         <h1 className="big"> mbonigaba alexis</h1>
-        <p className="texts-p"> profession front-end developer with 3 years
-            of experience and 2 years in the same pesition
+        <p className="texts-p"> profession front-end developer and React Node js developer with 3 years
+            of experience and 2 years in the same position
         </p>
         <button className="texts-button">My Work</button>
     </div>
